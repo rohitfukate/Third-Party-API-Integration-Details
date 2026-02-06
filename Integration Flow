@@ -1,0 +1,11 @@
+Backend
+
+Fetches INR → USD conversion rate and computes:
+converted_price = price_in_inr * conversion_rate
+Frontend
+
+User clicks “Convert to USD”
+
+Sends POST to backend
+
+Displays converted price
